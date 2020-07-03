@@ -10,7 +10,7 @@ Beep-Boop1
 
 About
 
-Technology Used
+Technologies Used
 
 HTML, CSS, Javascript, Bootstrap, jQuery, looping, arrays
 
